@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiagoziem-code
-- 👀 I’m interested in Blockchain technology, Finance and Quant
-- 🌱 I’m currently learning Quant finance with Python
+- 👀 I’m interested in Asset Management, Finance and Quantitative analysis
+- 🌱 I’m currently learning finance with Python
 - 💞️ I’m looking to collaborate on open source projects on Options pricing models, Regression analysis using historical data with python
 - 📫 How to reach me ... anyanwuchiagoziem2002@gmail.com
 
